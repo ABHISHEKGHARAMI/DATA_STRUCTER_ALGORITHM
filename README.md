@@ -7,6 +7,8 @@ It is all about the Data-Structer.The topics covered in this repo are
 6. Recursion
 7. Sorting
 8. Tree
+   i. Binary Tree.
+   ii. Binary Search Tree.
 9. More topics are coming in advance
 
 Written in Python.

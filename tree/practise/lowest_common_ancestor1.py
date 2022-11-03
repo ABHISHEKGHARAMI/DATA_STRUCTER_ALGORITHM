@@ -31,7 +31,7 @@ def lca_utill_bforce(root,path,n):
     path.pop()
     return False
 
-#mian
+#main
 root = node(1)
 root.left = node(2)
 root.right = node(3)

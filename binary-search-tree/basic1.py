@@ -91,4 +91,4 @@ ar = [ 40,60,20,30,10,70]
 for  i in range(len(ar)):
     insert(root,ar[i])
 inOrder(root)
-print("The min value of the tree is :",min_value(root).data)
+
